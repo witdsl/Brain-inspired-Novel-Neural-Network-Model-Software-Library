@@ -11,3 +11,6 @@
 
 # 纹理数据集
 https://noisedataset1229.s3.eu-north-1.amazonaws.com/%E5%99%AA%E5%A3%B0%E6%95%B0%E6%8D%AE%E9%9B%86.zip
+
+# 噪声数据集
+https://noisedata1231.s3.eu-north-1.amazonaws.com/noisedata.zip
